@@ -4,6 +4,7 @@ This is a simple digital clock written in Python that displays the current time.
 
 # Features
 Displays the current time
+
 Updates every second
 
 # Prerequisites
