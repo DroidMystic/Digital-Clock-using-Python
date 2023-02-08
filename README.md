@@ -2,9 +2,10 @@
 # Overview
 This is a simple digital clock written in Python that displays the current time. The clock updates every second.
 
-#Features
+# Features
 Displays the current time
 Updates every second
+
 # Prerequisites
 Python 3.x
 # Installation
